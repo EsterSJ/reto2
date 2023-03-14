@@ -4,4 +4,4 @@
 4 Con git commit -m "comentario" confirmar los cambios que seran subidos al proyecto
 5 Con git push subir el proyecto a GitHub
 
-Hola mundo, esto es una prueba
+El gitignore no "funciona" en este caso porque previamente se ha hecho un git add y un git commit de los archivos a ignorar, por lo tanto estan confirmados ya para subir al proyecto.
