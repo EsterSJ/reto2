@@ -3,3 +3,5 @@
 3 Con git add . guardar todos los cambios en stage
 4 Con git commit -m "comentario" confirmar los cambios que seran subidos al proyecto
 5 Con git push subir el proyecto a GitHub
+
+Hola mundo, esto es una prueba
